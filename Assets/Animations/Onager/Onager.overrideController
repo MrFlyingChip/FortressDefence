@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Onager
+  m_Controller: {fileID: 9100000, guid: 86dc4282a063112428318b3dfb7a039d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f60c91da29c24eb4d876f2a505a2513b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3ef739364634ecc409d4ebf1c29aec96, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ba7f501f1f66e14880ee0907c2944c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67bc04adf0068bb4e98d502cfb6fb13a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fbe7f49ebd2e1fd499a66bed72e7e720, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f75c3765f6d22904280b2cc6210da6fe, type: 2}
